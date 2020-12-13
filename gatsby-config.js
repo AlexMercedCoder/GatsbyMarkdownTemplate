@@ -9,6 +9,7 @@ module.exports = {
   siteMetadata: {
     title: "My New Blog",
     description: "This is my awesome blog I made from scratch!",
+    cheese: "gouda"
   },
   plugins: [
     {
